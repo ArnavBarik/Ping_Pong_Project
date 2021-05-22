@@ -14,4 +14,30 @@ body{
 }
 #start{
     font-size: 22px;
+    width: 40%;
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: 80px;
+}
+canvas{
+    margin-top: 50px;  
+    margin-right: 60px;  
+}
+.instruction{
+    text-align: left;
+}
+#restart{
+    font-size: 22px;
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
 }
