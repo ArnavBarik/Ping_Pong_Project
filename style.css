@@ -21,7 +21,7 @@ body{
 }
 canvas{
     margin-top: 50px;  
-    margin-right: 60px;  
+    margin-right: 60px;
 }
 .instruction{
     text-align: left;
@@ -34,10 +34,14 @@ canvas{
 }
 .copy_right_footer{
     position: fixed;
-    color: black;
+    color: blue;
     bottom: 0;
     width: 100%;
-    background-color: white;
+    background-color: black;
     line-height: 3;
     text-align: center;
+}
+canvas{
+    border: 10px solid white;
+    border-radius: 10px;
 }
